@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ena {
+  margin-top: 57px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+width: 600px;
+height: 400px;
+}
+.main_bosh {
+  background-color: black;
+  max-width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+      
+
